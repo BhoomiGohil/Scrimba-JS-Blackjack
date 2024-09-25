@@ -1,5 +1,3 @@
-
-
 let cards = [], // Array to store player's cards
   sum = 0, // Sum of player's cards
   hasBlackJack = false, // Flag to track if player has Blackjack

@@ -19,8 +19,8 @@ This repository contains a simple **Blackjack Game** designed to enhance your un
 1. Clone the repository and open `index.html` for the Blackjack Game in your browser:
 
 ```bash
-git clone https://github.com/BhoomiGohil/javascript-scrimba-learn-javascript-build-a-blackjack-game.git
-cd javascript-scrimba-learn-javascript-build-a-blackjack-game
+git clone https://github.com/BhoomiGohil/Scrimba-JavaScriptCourseBlackjack.git
+cd Scrimba-JavaScriptCourseBlackjack
 ```
 
 2.  Open `index.html` in a browser.
